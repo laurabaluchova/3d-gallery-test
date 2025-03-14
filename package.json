@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/eKultura/digitalni-muzeum.cz",
+  "author": {
+    "name": "Laura Baluchova by Emilian Kasemi tutorial"    
+  },
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "ammojs-typed": "^1.0.6",
+    "cannon": "^0.6.2",
+    "lil-gui": "^0.18.2",
+    "three": "^0.151.3",
+    "three-stdlib": "^2.21.8"
+  },
+  "devDependencies": {
+    "vite": "^4.3.1"
+  },  
+    "scripts": {
+      "build": "vite build",
+      "preview": "vite preview"    
+  }
+}
