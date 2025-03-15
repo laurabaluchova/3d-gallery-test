@@ -1,6 +1,6 @@
 export const paintingData = [
   // Front Wall
- {imgSrc: `artworks/1.jpg`, 
+ {imgSrc: `https://images.pexels.com/photos/18166547/pexels-photo-18166547/free-photo-of-back-view-of-woman-in-black-dress-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2`, 
   width: 5, // width of the painting
   height: 4, // height of the painting
   position: { x: -15 + 10 * 0, y: 2, z: -19.5 }, // position of the painting
