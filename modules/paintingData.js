@@ -1,6 +1,7 @@
+import painting1 from '../src/assets/1.jpg';
 export const paintingData = [
   // Front Wall
- {imgSrc: `../src/artworks/1.jpg`, 
+ {imgSrc: painting1, 
   width: 5, // width of the painting
   height: 4, // height of the painting
   position: { x: -15 + 10 * 0, y: 2, z: -19.5 }, // position of the painting
