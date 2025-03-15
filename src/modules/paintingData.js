@@ -1,4 +1,4 @@
-import img1 from '../assets/1.jpg';
+import img1 from './assets/1.jpg';
 
 
 export const paintingData = [
