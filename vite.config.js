@@ -7,6 +7,6 @@ export default defineConfig({
       input: '/index.html',
     },
   },
- 
+  publicDir: "public", 
 
 });
