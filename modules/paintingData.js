@@ -1,4 +1,4 @@
-import img01 from '/artworks/1.jpg';
+import img01 from 'artworks/1.jpg';
 
 export const paintingData = [
   // Front Wall
